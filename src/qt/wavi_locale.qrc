@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/wavi_bg.qm</file>
+        <file alias="de">locale/wavi_de.qm</file>
+        <file alias="en">locale/wavi_en.qm</file>
+        <file alias="es">locale/wavi_es.qm</file>
+        <file alias="fi">locale/wavi_fi.qm</file>
+        <file alias="fr">locale/wavi_fr.qm</file>
+        <file alias="it">locale/wavi_it.qm</file>
+        <file alias="ja">locale/wavi_ja.qm</file>
+        <file alias="pl">locale/wavi_pl.qm</file>
+        <file alias="pt">locale/wavi_pt.qm</file>
+        <file alias="ru">locale/wavi_ru.qm</file>
+        <file alias="sk">locale/wavi_sk.qm</file>
+        <file alias="sv">locale/wavi_sv.qm</file>
+        <file alias="vi">locale/wavi_vi.qm</file>
+        <file alias="zh_CN">locale/wavi_zh_CN.qm</file>
+        <file alias="zh_TW">locale/wavi_zh_TW.qm</file>
+    </qresource>
+</RCC>

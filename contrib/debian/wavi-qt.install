@@ -1,0 +1,6 @@
+usr/local/bin/wavi-qt usr/bin
+share/pixmaps/wavi32.xpm usr/share/pixmaps
+share/pixmaps/wavi16.xpm usr/share/pixmaps
+share/pixmaps/wavi128.png usr/share/pixmaps
+debian/wavi-qt.desktop usr/share/applications
+debian/wavi-qt.protocol usr/share/kde4/services/
