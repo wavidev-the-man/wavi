@@ -1,3 +1,7 @@
+## What is InstantSend?
+
+InstantSend is an advanced service that allows for near-instant transactions to take place. With this system, inputs can be locked to specific transactions and verified by consensus of the masternode network. Conflicting transactions and blocks are rejected. If a consensus cannot be reached by the masternode network, validation of the transaction will occur through standard block confirmation. InstantSend is able to solve the double-spending problem without the longer confirmation times of other cryptocurriencies such as Bitcoin.
+
 ## InstantSend Technical Information
 
 InstantSend has been integrated into the Core Daemon in two ways:
