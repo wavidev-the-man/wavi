@@ -6,8 +6,11 @@ WAVI uses special servers called masternodes to power PrivateSend, InstantSend, 
 Masternodes enable the following services:
 -------------------------------------------
 •InstantSend allows for near-instant transactions. WAVI InstantSend transactions are fully confirmed within four seconds.
+
 •PrivateSend gives financial privacy by obscuring the source of funds on the blockchain.
+
 •Governance and Treasury allows stakeholders in WAVI to determine the direction of the project and devotes 10% of the block reward to development of the project and ecosystem.
+
 •WAVI will make using cryptocurrency as easy as using PayPal.
 
 
