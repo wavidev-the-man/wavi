@@ -24,10 +24,10 @@ Drag Wavi-Qt to your applications folder, and then run Wavi-Qt.
 
 ### Need Help?
 
-* See the [Wavi documentation](https://wavipay.atlassian.net/wiki/display/DOC)
+* See the [Wavi documentation](https://github.com/wavidev-the-man/wavi/tree/master/doc)
 for help and more information.
-* Ask for help on [#wavipay](http://webchat.freenode.net?channels=wavipay) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=wavipay).
-* Ask for help on the [WaviTalk](https://wavitalk.org/) forums.
+* Ask for help on [WAVI Discord channel](https://discord.gg/6vGNAh5).
+* Ask for help on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=3146751) forums.
 
 Building
 ---------------------
