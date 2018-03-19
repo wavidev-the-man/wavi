@@ -57,8 +57,8 @@ The Wavi Core repo's [root README](/README.md) contains relevant information on 
 - [Dnsseed Policy](dnsseed-policy.md)
 
 ### Resources
-* Discuss on the [WaviTalk](https://wavitalk.org/) forums, in the Development & Technical Discussion board.
-* Discuss on [#wavipay](http://webchat.freenode.net/?channels=wavipay) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=wavipay).
+* Discuss on the [BitcointalkTalk](https://bitcointalk.org/index.php?topic=3146751) forums.
+* Discuss on [WAVI Discord channel](https://discord.gg/6vGNAh5).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
