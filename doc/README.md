@@ -1,7 +1,7 @@
-Wavi Core 0.12.1
+Wavi Core 0.12.2.3
 =====================
 
-This is the official reference wallet for Wavi digital currency and comprises the backbone of the Wavi peer-to-peer network. You can [download Wavi Core](https://www.wavi.org/downloads/) or [build it yourself](#building) using the guides below.
+This is the official reference wallet for Wavi digital currency and comprises the backbone of the Wavi peer-to-peer network. You can [download Wavi Core](https://github.com/wavidev-the-man/wavi/releases) or [build it yourself](#building) using the guides below.
 
 Running
 ---------------------
